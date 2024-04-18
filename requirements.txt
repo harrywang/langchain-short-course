@@ -13,3 +13,4 @@ lark
 scikit-learn
 panel
 docarray
+hnswlib
